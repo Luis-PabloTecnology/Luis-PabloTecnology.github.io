@@ -19,7 +19,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 title      : Luis PabloTecnology
 email      : alberto2015.ordonez@gmail.com
 description: "Somos los mejores tecnicos para arreglar tu PC"
-author     : Luis Pablo
+author     : Luis Pablo.
 # logo:     #optional, defaults to site title
   # path: assets\img\clients\creative-market.jpg
   # height: 60 #height in px, defaults to 52px
